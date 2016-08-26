@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "myfirst", "myfirst.cpp\myfi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "carrots", "carrots\carrots.vcxproj", "{89D6E143-6D20-4990-9A37-83BEBB611DEC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "getinfo", "getinfo\getinfo.vcxproj", "{B194BE9F-77FB-4751-BE67-5FC826F95467}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{89D6E143-6D20-4990-9A37-83BEBB611DEC}.Release|x64.Build.0 = Release|x64
 		{89D6E143-6D20-4990-9A37-83BEBB611DEC}.Release|x86.ActiveCfg = Release|Win32
 		{89D6E143-6D20-4990-9A37-83BEBB611DEC}.Release|x86.Build.0 = Release|Win32
+		{B194BE9F-77FB-4751-BE67-5FC826F95467}.Debug|x64.ActiveCfg = Debug|x64
+		{B194BE9F-77FB-4751-BE67-5FC826F95467}.Debug|x64.Build.0 = Debug|x64
+		{B194BE9F-77FB-4751-BE67-5FC826F95467}.Debug|x86.ActiveCfg = Debug|Win32
+		{B194BE9F-77FB-4751-BE67-5FC826F95467}.Debug|x86.Build.0 = Debug|Win32
+		{B194BE9F-77FB-4751-BE67-5FC826F95467}.Release|x64.ActiveCfg = Release|x64
+		{B194BE9F-77FB-4751-BE67-5FC826F95467}.Release|x64.Build.0 = Release|x64
+		{B194BE9F-77FB-4751-BE67-5FC826F95467}.Release|x86.ActiveCfg = Release|Win32
+		{B194BE9F-77FB-4751-BE67-5FC826F95467}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
