@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "myfirst.cpp", "myfirst.cpp\myfirst.cpp.vcxproj", "{B59AE72E-D9CA-4723-9D46-AD7961C242EF}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "myfirst", "myfirst.cpp\myfirst.cpp.vcxproj", "{B59AE72E-D9CA-4723-9D46-AD7961C242EF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "carrots", "carrots\carrots.vcxproj", "{89D6E143-6D20-4990-9A37-83BEBB611DEC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,14 @@ Global
 		{B59AE72E-D9CA-4723-9D46-AD7961C242EF}.Release|x64.Build.0 = Release|x64
 		{B59AE72E-D9CA-4723-9D46-AD7961C242EF}.Release|x86.ActiveCfg = Release|Win32
 		{B59AE72E-D9CA-4723-9D46-AD7961C242EF}.Release|x86.Build.0 = Release|Win32
+		{89D6E143-6D20-4990-9A37-83BEBB611DEC}.Debug|x64.ActiveCfg = Debug|x64
+		{89D6E143-6D20-4990-9A37-83BEBB611DEC}.Debug|x64.Build.0 = Debug|x64
+		{89D6E143-6D20-4990-9A37-83BEBB611DEC}.Debug|x86.ActiveCfg = Debug|Win32
+		{89D6E143-6D20-4990-9A37-83BEBB611DEC}.Debug|x86.Build.0 = Debug|Win32
+		{89D6E143-6D20-4990-9A37-83BEBB611DEC}.Release|x64.ActiveCfg = Release|x64
+		{89D6E143-6D20-4990-9A37-83BEBB611DEC}.Release|x64.Build.0 = Release|x64
+		{89D6E143-6D20-4990-9A37-83BEBB611DEC}.Release|x86.ActiveCfg = Release|Win32
+		{89D6E143-6D20-4990-9A37-83BEBB611DEC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
