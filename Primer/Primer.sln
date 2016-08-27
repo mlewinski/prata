@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "exceed", "exceed\exceed.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hexoct1", "hexoct1\hexoct1.vcxproj", "{EE397998-9164-4D90-9FF6-8556FDCE8016}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "morechar", "morechar\morechar.vcxproj", "{21513FF3-490F-4F10-9DA3-830AA9554DC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{EE397998-9164-4D90-9FF6-8556FDCE8016}.Release|x64.Build.0 = Release|x64
 		{EE397998-9164-4D90-9FF6-8556FDCE8016}.Release|x86.ActiveCfg = Release|Win32
 		{EE397998-9164-4D90-9FF6-8556FDCE8016}.Release|x86.Build.0 = Release|Win32
+		{21513FF3-490F-4F10-9DA3-830AA9554DC5}.Debug|x64.ActiveCfg = Debug|x64
+		{21513FF3-490F-4F10-9DA3-830AA9554DC5}.Debug|x64.Build.0 = Debug|x64
+		{21513FF3-490F-4F10-9DA3-830AA9554DC5}.Debug|x86.ActiveCfg = Debug|Win32
+		{21513FF3-490F-4F10-9DA3-830AA9554DC5}.Debug|x86.Build.0 = Debug|Win32
+		{21513FF3-490F-4F10-9DA3-830AA9554DC5}.Release|x64.ActiveCfg = Release|x64
+		{21513FF3-490F-4F10-9DA3-830AA9554DC5}.Release|x64.Build.0 = Release|x64
+		{21513FF3-490F-4F10-9DA3-830AA9554DC5}.Release|x86.ActiveCfg = Release|Win32
+		{21513FF3-490F-4F10-9DA3-830AA9554DC5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
