@@ -71,6 +71,7 @@ void LightYearsToAU() {
 	cout << lightYears << " ly =  " << (63240 * lightYears) << " au" << endl;
 }
 
+// Task 7
 void ParseTime(int hours, int minutes) {
 	if (minutes >= 60) {
 		hours += (minutes - (minutes % 60)) / 60;
